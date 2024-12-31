@@ -1,0 +1,13 @@
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\bin\Debug\Petrol.exe.config
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\bin\Debug\Petrol.exe
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\bin\Debug\Petrol.pdb
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.Form1.resources
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.exe
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.pdb
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.Form2.resources
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.Form3.resources
+C:\Users\Mehmet\Desktop\kod\c#\Petrol\Petrol\obj\Debug\Petrol.Form4.resources
